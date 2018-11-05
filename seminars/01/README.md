@@ -79,6 +79,7 @@ exit # вернуться под пользователя student
 * [История развития Linux](http://storage.piter.com/upload/contents/978591180807/978591180807_p.pdf)
 * [Фильм RevolutionOS о появлении свободного ПО и Linux](https://www.youtube.com/watch?v=n1F_MfLRlX0)
 * [Шпаргалка по работа в командной строке](https://help.ubuntu.ru/wiki/%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%BE%D0%BA%D0%B0)
+* [Шпаргалка по tmux](https://habr.com/post/126996/)
 * [Права доступа в Linux](http://www.k-max.name/linux/prava-dostupa-v-linux-eshhe-odna-malenkaya-shpargalka/)
 * [Как запускаются исполняемые файлы в Linux](http://www.k-max.name/linux/kak-zapuskayutsya-ispolnyaemye-fajly-v-linux/)
 * [Midnight Commander: команды и горячие клавиши](http://mydebianblog.blogspot.com/2011/01/midnight-commander.html)

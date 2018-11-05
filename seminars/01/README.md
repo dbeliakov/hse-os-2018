@@ -58,6 +58,7 @@
 su - # перейти под пользователя root
 apt-get update # обновить список пакетов
 apt-get install -y sudo # установить пакет с именем sudo
+visudo # откроется текстовый редактор, добавить строку student ALL=(ALL:ALL) ALL и сохранить
 exit # вернуться под пользователя student
 ```
 

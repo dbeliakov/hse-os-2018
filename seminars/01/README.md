@@ -6,7 +6,6 @@
 [VirtualBox](https://www.virtualbox.org/)  
 [Подготовленный образ для VirtualBox](https://goo.gl/G10hmh)  
 [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)  
-[Основы bash. Часть 1](https://habr.com/post/47163/) и [Основы bash. Часть 2](https://habr.com/post/52871/)  
 
 ### Параметры подготовленного образа
  * Операционная система: **Debian GNU/Linux 8 (32 bit)**
@@ -84,4 +83,5 @@ exit # вернуться под пользователя student
 * [Как запускаются исполняемые файлы в Linux](http://www.k-max.name/linux/kak-zapuskayutsya-ispolnyaemye-fajly-v-linux/)
 * [Midnight Commander: команды и горячие клавиши](http://mydebianblog.blogspot.com/2011/01/midnight-commander.html)
 * [Основы работы с vim](http://mydebianblog.blogspot.com/2012/03/vim.html)
-* [Основы работы с nano](https://help.ubuntu.ru/wiki/nano) 
+* [Основы работы с nano](https://help.ubuntu.ru/wiki/nano)
+* [Основы bash. Часть 1](https://habr.com/post/47163/) и [Основы bash. Часть 2](https://habr.com/post/52871/)

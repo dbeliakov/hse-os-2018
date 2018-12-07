@@ -2,10 +2,15 @@
 #include <stdio.h>
 #include <wchar.h>
 #include <wctype.h>
+#include <stdlib.h>
 
 int main()
 {
-    setlocale(LC_ALL, "");
+    char* locale = setlocale(LC_ALL, "ru_RU.UTF-8");
+    if (locale == NULL) {
+        fprintf(stderr, "Bad locale\n");
+        exit(1);
+    }
     wint_t c = getwc(stdin);
     if (c == EOF) {
         return 0;

@@ -1,6 +1,6 @@
-# Семинар 16. Процессы
+# Семинар 17. Процессы (продолжение)
 
-[Презентация](https://dbeliakov.github.io/hse-os-2018/seminars/16/slides/)  
+[Презентация](https://dbeliakov.github.io/hse-os-2018/seminars/17/slides/)  
 [Примеры кода](code)
 
 ### Дополнительные материалы

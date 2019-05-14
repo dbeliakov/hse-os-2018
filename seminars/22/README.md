@@ -6,3 +6,4 @@
 ### Дополнительные материалы
 * [Материалы прошлого года](https://github.com/hseos/hseos-course/tree/master/2017/22-pthread)
 * [Pthreads: Потоки в русле POSIX](https://habr.com/ru/post/326138/)
+* [Конкурентность: Параллелизм](https://habr.com/ru/post/318374/)
